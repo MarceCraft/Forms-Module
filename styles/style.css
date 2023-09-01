@@ -1,0 +1,7 @@
+.zone {
+    height: 300px;
+    width: 70%;
+    margin: auto;
+    border: 8px dashed #000;
+    background-color: rgb(218, 216, 216);
+}

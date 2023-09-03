@@ -5,24 +5,3 @@
     border: 8px dashed #000;
     background-color: rgb(218, 216, 216);
 }
-
-.header {
-    background-color: #231581;
-}
-
-.nav {
-    border: 2px solid #fff;
-}
-
-.list-mariscos {
-    display: flex;
-    flex-direction: row-reverse;
-    border: 3px dashed #fff;
-}
-
-.marico {
-    flex-grow: 1;
-    background-color: #333;
-    height: 120px;
-}
-

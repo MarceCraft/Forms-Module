@@ -5,3 +5,9 @@
     border: 8px dashed #000;
     background-color: rgb(218, 216, 216);
 }
+
+.footer {
+    background-color: #4a7;
+    border-radius: 20px;
+    height: 300px;
+}

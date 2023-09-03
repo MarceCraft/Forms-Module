@@ -5,3 +5,20 @@
     border: 8px dashed #000;
     background-color: rgb(218, 216, 216);
 }
+
+.footer {
+    background-color: #4a7;
+    border-radius: 20px;
+    height: 300px;
+}
+
+.contact {
+    background-color: #a6a4a4;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: red;
+    letter-spacing: 10px;
+}
